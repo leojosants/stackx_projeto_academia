@@ -24,4 +24,4 @@
 - `Navegador web:` Interação com documentos HTML
 
 ### Licença
-- Esse projeto está sob a licença MIT.
+- Esse projeto está sob a licença `MIT`.
